@@ -8,9 +8,9 @@ USER_NAME = "Satyampd"
 
 setuptools.setup(
     name=f"{PROJECT_NAME}",
-    version="0.0.2",
+    version="0.0.1",
     author=USER_NAME,
-    author_email="YOUR EMAIL",
+    author_email="tiwarisatyampd@gmail.com",
     description="DESCRIPTION HERE",
     long_description=long_description,
     long_description_content_type="text/markdown",
